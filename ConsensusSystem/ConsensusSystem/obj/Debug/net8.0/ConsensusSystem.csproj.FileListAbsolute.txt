@@ -1,0 +1,14 @@
+D:\Waku\Emerson\Prueba\ConsensusSystem\ConsensusSystem\bin\Debug\net8.0\ConsensusSystem.exe
+D:\Waku\Emerson\Prueba\ConsensusSystem\ConsensusSystem\bin\Debug\net8.0\ConsensusSystem.deps.json
+D:\Waku\Emerson\Prueba\ConsensusSystem\ConsensusSystem\bin\Debug\net8.0\ConsensusSystem.runtimeconfig.json
+D:\Waku\Emerson\Prueba\ConsensusSystem\ConsensusSystem\bin\Debug\net8.0\ConsensusSystem.dll
+D:\Waku\Emerson\Prueba\ConsensusSystem\ConsensusSystem\bin\Debug\net8.0\ConsensusSystem.pdb
+D:\Waku\Emerson\Prueba\ConsensusSystem\ConsensusSystem\obj\Debug\net8.0\ConsensusSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Waku\Emerson\Prueba\ConsensusSystem\ConsensusSystem\obj\Debug\net8.0\ConsensusSystem.AssemblyInfoInputs.cache
+D:\Waku\Emerson\Prueba\ConsensusSystem\ConsensusSystem\obj\Debug\net8.0\ConsensusSystem.AssemblyInfo.cs
+D:\Waku\Emerson\Prueba\ConsensusSystem\ConsensusSystem\obj\Debug\net8.0\ConsensusSystem.csproj.CoreCompileInputs.cache
+D:\Waku\Emerson\Prueba\ConsensusSystem\ConsensusSystem\obj\Debug\net8.0\ConsensusSystem.dll
+D:\Waku\Emerson\Prueba\ConsensusSystem\ConsensusSystem\obj\Debug\net8.0\refint\ConsensusSystem.dll
+D:\Waku\Emerson\Prueba\ConsensusSystem\ConsensusSystem\obj\Debug\net8.0\ConsensusSystem.pdb
+D:\Waku\Emerson\Prueba\ConsensusSystem\ConsensusSystem\obj\Debug\net8.0\ConsensusSystem.genruntimeconfig.cache
+D:\Waku\Emerson\Prueba\ConsensusSystem\ConsensusSystem\obj\Debug\net8.0\ref\ConsensusSystem.dll
