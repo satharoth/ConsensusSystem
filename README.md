@@ -20,8 +20,8 @@ Este proyecto implementa un sistema distribuido de consenso basado en múltiples
 ### 2️⃣ Clonar el Repositorio
 
 ```sh
-git clone https://github.com/tu-usuario/consenso-distribuido.git
-cd consenso-distribuido
+git clone https://github.com/satharoth/ConsensusSystem.git
+cd ConsensusSystem
 ```
 
 ### 3️⃣ Ejecutar el Proyecto en Modo Local
